@@ -33,8 +33,8 @@ yolov3-object-detection/<br>
 
 Place the following files into the Dataset/ folder:
 
-yolov3.cfg
+[yolov3.cfg](https://github.com/pjreddie/darknet/blob/master/cfg/yolov3.cfg)
 
-yolov3.weights
+[yolov3.weights](https://www.kaggle.com/datasets/shivam316/yolov3-weights)
 
-coco.names
+[coco.names](https://github.com/ayooshkathuria/pytorch-yolo-v3/blob/master/data/coco.names)
